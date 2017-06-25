@@ -1,0 +1,6 @@
+{
+	"login": "admin",
+	"password": "password",
+	"role": "1"
+ 
+}

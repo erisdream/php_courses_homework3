@@ -1,0 +1,13 @@
+body {
+  font-size: 14px;
+  font-family: "Roboto-medium", Arial, Helvetica, sans-serif;
+}
+
+.error {
+    color: red;
+}
+
+.correct {
+    color: green;
+}
+}
